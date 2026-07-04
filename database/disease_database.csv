@@ -1,0 +1,27 @@
+Disease,Pesticide,Dosage_per_Litre,Spray_Interval
+
+Apple___Apple_scab,Mancozeb,2g,7 days
+Apple___Black_rot,Captan,2g,10 days
+Apple___Cedar_apple_rust,Myclobutanil,1g,10 days
+Apple___healthy,None,None,None
+
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Azoxystrobin,1.5g,7 days
+Corn_(maize)___Common_rust_,Propiconazole,1g,7 days
+Corn_(maize)___Northern_Leaf_Blight,Mancozeb,2g,7 days
+Corn_(maize)___healthy,None,None,None
+
+Potato___Early_blight,Chlorothalonil,2g,7 days
+Potato___Late_blight,Mancozeb,2.5g,7 days
+Potato___healthy,None,None,None
+
+Tomato___Early_blight,Chlorothalonil,2g,7 days
+Tomato___Late_blight,Mancozeb,2.5g,7 days
+Tomato___Bacterial_spot,Copper Fungicide,2g,7 days
+Tomato___Leaf_Mold,Chlorothalonil,2g,7 days
+Tomato___Septoria_leaf_spot,Mancozeb,2g,7 days
+Tomato___Spider_mites Two-spotted_spider_mite,Neem Oil,3ml,5 days
+Tomato___Target_Spot,Azoxystrobin,1.5g,7 days
+Tomato___Tomato_mosaic_virus,Imidacloprid,0.5ml,7 days
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Thiamethoxam,0.5ml,7 days
+Tomato___healthy,None,None,None
+

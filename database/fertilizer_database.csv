@@ -1,0 +1,26 @@
+Disease,Fertilizer,Usage,Frequency
+
+Apple___Apple_scab,NPK 19:19:19,5g per litre foliar spray,Weekly
+Apple___Black_rot,Calcium Nitrate,5g per litre,Weekly
+Apple___Cedar_apple_rust,Potassium Nitrate,5g per litre,Weekly
+Apple___healthy,None,None,None
+
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,NPK 19:19:19,5g per litre,Weekly
+Corn_(maize)___Common_rust_,Urea,3g per litre,Weekly
+Corn_(maize)___Northern_Leaf_Blight,Potassium Sulfate,5g per litre,Weekly
+Corn_(maize)___healthy,None,None,None
+
+Potato___Early_blight,NPK 19:19:19,5g per litre,Weekly
+Potato___Late_blight,Potassium Nitrate,5g per litre,Weekly
+Potato___healthy,None,None,None
+
+Tomato___Bacterial_spot,Calcium Nitrate,5g per litre,Weekly
+Tomato___Early_blight,NPK 19:19:19,5g per litre,Weekly
+Tomato___Late_blight,Potassium Nitrate,5g per litre,Weekly
+Tomato___Leaf_Mold,NPK 19:19:19,5g per litre,Weekly
+Tomato___Septoria_leaf_spot,Mancozeb + NPK,5g per litre,Weekly
+Tomato___Spider_mites Two-spotted_spider_mite,Neem Cake Extract,3ml per litre,Every 5 days
+Tomato___Target_Spot,Azoxystrobin + NPK,5g per litre,Weekly
+Tomato___Tomato_mosaic_virus,Bio-fertilizer (Azotobacter),5g per litre,Weekly
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Seaweed Extract,3ml per litre,Weekly
+Tomato___healthy,None,None,None
